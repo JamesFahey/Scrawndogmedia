@@ -3206,8 +3206,8 @@ textarea.form-control-lg {
 }
 .btn-danger:disabled, .btn-danger.disabled {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #351c44;
+  border-color: #351c44;
 }
 
 .btn-light {
