@@ -11925,6 +11925,12 @@ header.masthead .h1 {
 }
 
 .logo {
-  height: 200px;
-  border-radius: 50%;
+    height: 200px;
+    border-radius: 50%;
+}
+
+video {
+    /* override other styles to make responsive */
+    width: 100% !important;
+    height: auto !important;
 }
